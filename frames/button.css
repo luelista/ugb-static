@@ -1,0 +1,127 @@
+
+
+
+.boost-button-u010jjiasd {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 22px;
+    color: white !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    vertical-align: middle;
+    background-color: #006ccc;
+    background-image: -moz-linear-gradient(top, #08c, #04c);
+    background-image: -ms-linear-gradient(top, #08c, #04c);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#08c), to(#04c));
+    background-image: -webkit-linear-gradient(top, #08c, #04c);
+    background-image: -o-linear-gradient(top, #08c, #04c);
+    background-image: linear-gradient(top, #0088cc, #0044cc);
+    background-repeat: repeat-x;
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#FF0088CC", endColorstr="#FF0044CC", GradientType=0);
+    border-color: #0044cc #0044cc #002a80;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) fadein(rgba(0, 0, 0, 0.1), 15%);
+    filter: progid: DXImageTransform.Microsoft.gradient(enabled false);
+    border: 1px solid #ccc;
+    border-bottom-color: #bbb;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    font-family: Arial;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    filter: progid: DXImageTransform.Microsoft.gradient(enabled false);
+    *margin-left: .3em
+}
+.boost-button-u010jjiasd:hover {
+    background-color: #0044cc;
+    opacity: 1;
+    filter: alpha(opacity=100);
+    text-decoration: none;
+    background-position: 0 -15px;
+    -webkit-transition: background-position 0.1s linear;
+    -moz-transition: background-position 0.1s linear;
+    -ms-transition: background-position 0.1s linear;
+    -o-transition: background-position 0.1s linear;
+    transition: background-position 0.1s linear
+}
+.boost-button-jlazvlja1 {
+    margin-top: 5px
+}
+.boost-button-jlazvlja1 a {
+    color: #B0CCFF;
+    padding: 0 5px
+}
+.boost-button-jlazvlja1 a:hover {
+    color: white
+}
+.boost-button-qweoijbla {
+    width: 60px;
+    vertical-align: middle
+}
+.boost-button-bnaknwerl {
+    text-decoration: none
+}
+body a.boost-button-weroiby1 {
+    display: inline-block;
+    width: 130px;
+    padding: 11px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 45px;
+    margin-bottom: 1px;
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 16px;
+    color: white !important;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    vertical-align: middle;
+    background-color: #545051;
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png");
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #545051), color-stop(100%, #1f1c1c));
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -webkit-linear-gradient(#545051, #1f1c1c);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -moz-linear-gradient(#545051, #1f1c1c);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -o-linear-gradient(#545051, #1f1c1c);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), linear-gradient(#545051, #1f1c1c);
+    background-repeat: no-repeat;
+    background-position: right;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    cursor: pointer
+}
+body a.boost-button-weroiby1:active {
+    text-decoration: none;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    padding: 11px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 45px;
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png");
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #534f50), color-stop(100%, #363132));
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -webkit-linear-gradient(#534f50, #363132);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -moz-linear-gradient(#534f50, #363132);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -o-linear-gradient(#534f50, #363132);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), linear-gradient(#534f50, #363132)
+}
+body a.boost-button-weroiby1:hover {
+    text-decoration: none;
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png");
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #534f50), color-stop(100%, #363132));
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -webkit-linear-gradient(#534f50, #363132);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -moz-linear-gradient(#534f50, #363132);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), -o-linear-gradient(#534f50, #363132);
+    background-image: url("https://www.boost-project.com/assets/elements/button/boostlogo.png"), linear-gradient(#534f50, #363132)
+}
+
